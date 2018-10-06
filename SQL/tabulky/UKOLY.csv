@@ -1,0 +1,42 @@
+cislo;kod;nazev;priorita;termin;stav
+1;658;analýza reportů v Excelech;3;21.1.2015;UKONCENY
+2;522;analýza aktuálního stavu datového skladu pošty;3;1.3.2015;ROZDELANY
+3;536;analýza dopadů;3;1.1.2015;ROZDELANY
+4;512;analýza dopadů;1;2.3.2015;NOVY
+5;658;analýza dostupnosti dat;1;11.3.2015;NOVY
+6;578;analýza dostupných technických prostředků;2;11.3.2015;ROZDELANY
+7;578;analýza potřeb pojišťovny;3;1.1.2015;UKONCENY
+8;854;analýza technické implementace do aktuálního prostředí;2;22.4.2015;ROZDELANY
+9;536;analýza zdrojových systémů;3;10.4.2015;NOVY
+16;536;fyzický model pro školní systém;3;26.2.2015;ROZDELANY
+17;512;implementace dle bankovní specifikace;3;7.7.2015;ROZDELANY
+18;578;konceptuální model pojišťovna;3;24.3.2015;NOVY
+19;578;konceptuální schéma pojišťovna;1;1.11.2015;NOVY
+20;578;konzultace základních postupů;3;13.6.2015;ROZDELANY
+21;512;koordinace se subdodavateli;3;8.6.2015;ROZDELANY
+22;522;koordinační schůzka na poště;1;8.5.2015;ROZDELANY
+23;854;nalezení referenčních zakázek BIG data;3;3.3.2015;ROZDELANY
+24;658;návrh automatizace zpracování dat;3;4.4.2015;ROZDELANY
+25;658;návrh designu reportů;2;5.5.2015;ROZDELANY
+26;536;návrh konceptuálního modelu pro školní systém;2;21.5.2015;NOVY
+31;578;návrh procesingu datového skladu;3;6.6.2015;ROZDELANY
+32;536;návrh procesních změn ve škole;3;28.1.2015;ROZDELANY
+33;522;navrhnutí cílového optimálního stavu;3;13.6.2015;NOVY
+34;578;oslava ukončení T_PROJEKTu;3;17.4.2015;NOVY
+35;854;průzkum trhu big data řešení;3;25.3.2015;ROZDELANY
+36;522;průzkum využitelných technologií na poště;2;1.12.2014;UKONCENY
+37;578;předpis transformací;3;22.2.2015;ROZDELANY
+38;578;předpis vstupních dat;2;8.2.2015;NOVY
+39;578;příprava change managementu;2;18.1.2015;UKONCENY
+40;578;referenční návštěva pro pojišťovnu;3;13.7.2014;UKONCENY
+56;522;referenční návvšteva z pošty;3;28.2.2015;NOVY
+58;578;testovací scénář;3;18.4.2015;ROZDELANY
+64;512;testování doávaných změn;2;30.5.2015;ROZDELANY
+65;578;testování integrace dat;2;1.7.2015;NOVY
+68;658;testování reportů;3;8.1.2015;UKONCENY
+71;536;tvorba dokumentace;2;21.11.2014;UKONCENY
+72;578;vytvoření dokumentace;1;7.3.2015;ROZDELANY
+86;522;vytvoření dokumentace skladu pošty;3;23.1.2015;ROZDELANY
+87;512;vytvoření specifikace změny modelu;3;17.7.2015;ROZDELANY
+88;658;vývoj reportů dle specifikace;3;8.4.2015;ROZDELANY
+89;578;vývoj transformací;3;13.1.2015;UKONCENY
