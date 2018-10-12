@@ -1,0 +1,1 @@
+merge(data, dictionary, by = 'Name_of_column')
